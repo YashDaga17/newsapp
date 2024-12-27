@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 174,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Motorola is testing AI that skips words and gets straight to doing what you ask",
+            "description": "Motorola’s proof-of-concept LAM tech lets your phone understand your surroundings in order to tackle tough tasks with just a few words.",
+            "url": "https://www.androidcentral.com/apps-software/motorola-is-testing-ai-that-skips-words-and-gets-straight-to-doing-what-you-ask",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pEASxtK2JCHbPBEaLFXnJ4-1200-80.jpg",
+            "publishedAt": "2024-10-16T02:19:31Z",
+            "content": "What you need to know\r\n<ul><li>Motorola revealed a new AI concept that allows your phone to understand its surroundings and tackle tasks just by having a casual chat.</li><li>Although it's still in t… [+2813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Mobvoi's new TicWatch promises great battery life despite its feature-packed arsenal",
+            "description": "The TicWatch Atlas is a sturdy smartwatch that packs in advanced features like a heat map and emergency SOS functionality.",
+            "url": "https://www.androidcentral.com/wearables/mobvois-new-ticwatch-promises-great-battery-life-despite-its-feature-packed-arsenal",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zrwPBu4fn5FUxGnroHbpY8-1200-80.jpg",
+            "publishedAt": "2024-10-16T05:23:20Z",
+            "content": "What you need to know\r\n<ul><li>Mobvoi has launched the TicWatch Atlas, a $350 rugged timepiece that offers a wallet-friendly alternative to premium smartwatches from Samsung and Apple without skimpin… [+2794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "derrek.lee@futurenet.com (Derrek Lee)",
+            "title": "Oura Ring 4 vs. Oura Ring Gen 3: Should you upgrade?",
+            "description": "The Oura Ring 4 brings quite a few important upgrades over the Oura Ring Gen 3, but is it worth upgrading to? Should new smart ring buyers still consider the older model?",
+            "url": "https://www.androidcentral.com/wearables/oura-ring-4-vs-oura-ring-gen-3",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dyceobN6TGnV43AovR3zmN-1200-80.jpg",
+            "publishedAt": "2024-10-16T04:26:30Z",
+            "content": "The Oura Ring 4 is the latest and greatest smart ring from the Finnish company that started the wearable craze. However, the Oura Ring Gen 3 was the smart ring that led that trend, thanks to its impr… [+7629 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Tangalakis-Lippert",
+            "title": "Chelsea Manning avoids Google and Microsoft — and says she prefers Apple products for cybersecurity",
+            "description": "Chelsea Manning is the face of a new VPN called Nym. She's also speaking out about cybersecurity in general, saying she deems Apple products the best.",
+            "url": "https://www.businessinsider.com/cybersecurity-chelsea-manning-avoid-google-microsoft-favor-apple-vpn-privacy-2024-10",
+            "urlToImage": "https://i.insider.com/670f034da70318649282a9d8?width=1024&format=jpeg",
+            "publishedAt": "2024-10-16T00:24:50Z",
+            "content": "Chelsea Manning says she thinks Apple has the best security among Big Tech companies — and says she avoids Microsoft and Google products.Getty Images\r\n<ul><li>Chelsea Manning is the face of a new VPN… [+5126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Lacort",
+            "title": "Intel y AMD se alían contra ARM: un pacto entre rivales para salvar x86",
+            "description": "Durante el Lenovo Tech World 2024 que se está celebrando en Seattle asistimos a un anuncio sorpresa durante la conferencia inaugural: Intel y AMD anunciaron una alianza para revitalizar la arquitectura x86 frente al avance de ARM en los últimos años.\n<!-- BRE…",
+            "url": "https://www.xataka.com/componentes/intel-amd-se-alian-arm-pacto-rivales-para-salvar-x86",
+            "urlToImage": "https://i.blogs.es/dbbf37/img_0990/840_560.jpeg",
+            "publishedAt": "2024-10-16T06:00:52Z",
+            "content": "Durante el Lenovo Tech World 2024 que se está celebrando en Seattle asistimos a un anuncio sorpresa durante la conferencia inaugural: Intel y AMD anunciaron una alianza para revitalizar la arquitectu… [+2284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Mittwoch: Intel und AMD gemeinsam gegen ARM, mehr Exportlimitierung für KI-Chips",
+            "description": "x86-Allianz gegen ARM + KI-Exportbeschränkungen für Nahen Osten + TypeScript statt Bash + Tesla-Roboter menschlich ferngesteuert + Apples neues iPad mini für KI",
+            "url": "https://www.heise.de/news/Mittwoch-Intel-und-AMD-gemeinsam-gegen-ARM-mehr-Exportlimitierung-fuer-KI-Chips-9982549.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/9/8/5/9/mittwoch-912bf7d78b8a15e1.webp",
+            "publishedAt": "2024-10-16T04:15:00Z",
+            "content": "Gemeinsame Sache statt Eigenbrötlerei machen AMD und Intel und gründen mit Branchenschwergewichten eine Allianz, die x86 vorantreiben soll. Um sich besser gegen die größer werdende Konkurrenz von ARM… [+4469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "50% of Apple users can't manage AppleCare on device thanks to temporary outage",
+            "description": "A handful of Apple services are experiencing issues, including an outright outage affecting AppleCare on devices that impact 50% of users.AppleCare management on devices is downStarting at 6:21 p.m. Tuesday, Apple Business Essentials, Apple Business Manager, …",
+            "url": "https://appleinsider.com/articles/24/10/16/50-of-apple-users-cant-manage-applecare-on-device-thanks-to-temporary-outage",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61405-126858-AppleCare-Mac-xl.jpg",
+            "publishedAt": "2024-10-16T00:46:50Z",
+            "content": "A handful of Apple services are experiencing issues, including an outright outage affecting AppleCare on devices that impact 50% of users.\r\nStarting at 6:21 p.m. Tuesday, Apple Business Essentials, A… [+627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Christine McKee)",
+            "title": "Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare",
+            "description": "Despite just being announced on October 15, Apple's brand-new iPad mini 7 is eligible for an exclusive coupon discount on top of bonus savings on AppleCare.Save on every new iPad mini 7. [Image credit: Apple/AppleInsider]To save on every model, ranging from t…",
+            "url": "https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61400-126859-ipad-mini-7-coupon-xl.jpg",
+            "publishedAt": "2024-10-16T03:42:30Z",
+            "content": "Despite just being announced on October 15, Apple's brand-new iPad mini 7 is eligible for an exclusive coupon discount on top of bonus savings on AppleCare.\r\nSave on every 2024 iPad mini 7\r\nTo save o… [+1775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Chip Loder)",
+            "title": "How to use the new Attachments Browser in Notes for macOS",
+            "description": "Apple has added a few new features to the macOS Notes app for adding elements to text. Here's how to use the Notes Attachments Browser.The Notes app in macOS 15 Sequoia adds some new features, and one of those is a new Notes Attachments Browser.Notes has long…",
+            "url": "https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-new-attachments-browser-in-notes-for-macos",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/57266-116741-notes-ios-header-xl.jpg",
+            "publishedAt": "2024-10-16T03:01:28Z",
+            "content": "Apple has added a few new features to the macOS Notes app for adding elements to text. Here's how to use the Notes Attachments Browser.\r\nThe Notes app in macOS 15 Sequoia adds some new features, and … [+3844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Lexar Professional Go Portable SSD with Hub review: an iPhone video dream",
+            "description": "The Lexar Professional Go Portable SSD with Hub could be the external recording solution that content creators have been looking for.Lexar Professional Go Portable SSD with HubWhen Apple introduced the iPhone 15 Pro and Pro Max, it became possible for consume…",
+            "url": "https://appleinsider.com/articles/24/10/16/lexar-professional-go-portable-ssd-with-hub-review-an-iphone-video-dream",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61368-126812-lexarprofessionalgoportablessdwithhubreview-9-xl.jpg",
+            "publishedAt": "2024-10-16T00:31:26Z",
+            "content": "The Lexar Professional Go Portable SSD with Hub could be the external recording solution that content creators have been looking for. \r\nWhen Apple introduced the iPhone 15 Pro and Pro Max, it became … [+10825 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "はらいさん",
+            "title": "ウワサの新型iPhone SEのケース画像。こりゃシングルカメラで決まりか？",
+            "description": "Image:X発売もそう遠くないってこと…だよね？来年春ごろの発売がウワサされている新型iPhoneSEは、iPhone14またはiPhone16ベースになると囁かれていますが、どちらにせよ本体サイズは大きくなり、TouchIDとはお別れを告げることになる説が濃厚です。iPhoneSE（第4世代）が一体どんな姿に生まれ変わるのかはまだ謎に包まれていますが、もしかすると本物かもしれない新型iPhon",
+            "url": "https://www.gizmodo.jp/2024/10/new-iphone-se-case-image-leaked.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/10/16/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882024-10-150.01.07.jpeg?w=1280&h=630&f=jpg",
+            "publishedAt": "2024-10-16T01:00:00Z",
+            "content": "iPhone SEiPhone 14iPhone 16Touch ID\r\niPhone SE4iPhone SE\r\npic.twitter.com/cAySCuE1cz\r\n Sonny Dickson (@SonnyDickson) October 12, 2024\r\niPhone 16AppleiPhone SE4\r\niPhone SETouch ID\r\nApple Intelligencei… [+24 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "編集部",
+            "title": "【Amazonプライム感謝祭】今晩から先行セールなので、さいきん編集部員が買ったものまとめます",
+            "description": "Photo:孤独のテック2024年10月17日（木）0:00〜18日（金）23:59までAmazonプライム感謝祭先行セール、2024年10月19日（土）0:00〜20日（日）23:59までAmazonプライム感謝祭が開催されます。何を買おうかな〜とおもっているあなたに、ギズモード編集部メンバーの「最近のお買い物事情」をまとめたLinktree（リンクツリー）から、一部抜粋してお届け。お買い物リサ",
+            "url": "https://www.gizmodo.jp/2024/10/amazon-primeappreciation-2024.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/10/16/SALE_kanamoto.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2024-10-16T04:00:00Z",
+            "content": "202410170:001823:59Amazon 202410190:002023:59Amazon\r\nLinktree\r\nAmazon\r\nAmazonPR\r\n Amazon \r\nLinktree\r\nLinktree\r\nLinktree\r\nLinktree\r\nLinktree\r\nLinktree\r\nLinktree\r\nLinktree\r\nLinktree\r\nAmazon \r\n190:00 17… [+18 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Sarang Sheth",
+            "title": "Powerful Mini-PC Fits Inside a Foldable Keyboard with AMD Ryzen 7 and 1TB SSD",
+            "description": "Powerful Mini-PC Fits Inside a Foldable Keyboard with AMD Ryzen 7 and 1TB SSDBarely the size of a Mac mini, the Lunar is a 2-in-1 Foldable Keyboard that packs an entire PC into its compact design. Think of...",
+            "url": "https://www.yankodesign.com/2024/10/15/powerful-mini-pc-fits-inside-a-foldable-keyboard-with-amd-ryzen-7-and-1tb-ssd/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2024/10/powerful-mini-pc-fits-inside-a-foldable-keyboard-with-amd-ryzen-7-and-1tb-ssd/lunar_folding_keyboard_mini_pc_1.jpg",
+            "publishedAt": "2024-10-16T01:45:44Z",
+            "content": "Barely the size of a Mac mini, the Lunar is a 2-in-1 Foldable Keyboard that packs an entire PC into its compact design. Think of it as a laptop’s spiritual sibling – designed to fit anywhere and be c… [+4528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Andreas Donath",
+            "title": "Immersives Filmemachen: Apple entwickelt eigene 8K-3D-Kinokamera",
+            "description": "Apple hat für seine Vision Pro eine eigene 8K-3D-Kinokamera entwickelt, die das notwendige Videomaterial aufnehmen kann. (8K, Kameras)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fimmersives-filmemachen-apple-entwickelt-eigene-8k-3d-kinokamera-2410-189876.html&referer=https%3A%2F%2Ft.co%2F7aef3276a5",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T05:19:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Kaitlyn Cimino",
+            "title": "Apple Watch Series 10 tips and tricks: Make the most of your device",
+            "description": "The latest Apple Watch is a powerful device loaded with features. Make the most of your Series 10 with these tips.",
+            "url": "https://www.androidauthority.com/apple-watch-series-10-tips-3490976/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/Apple-Watch-Series-10-Apps-scaled.jpg",
+            "publishedAt": "2024-10-16T05:22:55Z",
+            "content": "Apple continues its legacy of dropping a powerful smartwatch year after year with the newest Series 10 model. The device is loaded with features and tools to deliver one of the best user experiences … [+9886 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espinof.com"
+            },
+            "author": "Albertini",
+            "title": "Estrenos (16 de octubre) - series, películas y documentales en Netflix, Max, Prime Video, Disney plus, Filmin, Movistar Plus+, Apple TV+, SkyShowtime y Atresplayer",
+            "description": "Miércoles. Atravesamos el ecuador de octubre y, como siempre, vamos a ver los estrenos de esta semana en streaming. En concreto, 53 series, películas y documentales que se estrenan desde hoy hasta el domingo a Netflix, Max, Prime Video, Filmin, Movistar Plus+…",
+            "url": "https://www.espinof.com/estrenos/estrenos-16-octubre-series-peliculas-documentales-netflix-max-prime-video-disney-plus-filmin-movistar-plus-apple-tv-skyshowtime-atresplayer",
+            "urlToImage": "https://i.blogs.es/6f0ed0/1111662-the-office-australia/840_560.jpeg",
+            "publishedAt": "2024-10-16T06:00:53Z",
+            "content": "Miércoles. Atravesamos el ecuador de octubre y, como siempre, vamos a ver los estrenos de esta semana en streaming. En concreto, 53 series, películas y documentales que se estrenan desde hoy hasta el… [+3892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "Clic2Shop",
+            "title": "Dossier : VPN pour iPhone : les 4 meilleurs fournisseurs du marché",
+            "description": "Pour les utilisateurs iPhone, l’usage d’un VPN peut s’avérer bénéfique pour la sécurité des données. Voici notre sélection des 4 meilleurs VPN pour iPhone.",
+            "url": "https://www.lesnumeriques.com/vpn/vpn-pour-iphone-les-4-meilleurs-fournisseurs-du-marche-a227026.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/article/22/227026/45457c57-vpn-pour-iphone-les-4-meilleurs-fournisseurs-du-marche__1200_678__overflow.jpg",
+            "publishedAt": "2024-10-16T06:00:00Z",
+            "content": "Les iPhones comptent parmi les téléphones les plus sécurisés sur le marché. En cause : des mises à jour régulières du système dexploitation et des fonctions de sécurité exclusives qui ne se trouvent … [+9458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wwwhatsnew.com"
+            },
+            "author": "Laura González Marín",
+            "title": "Cómo montar tu propio estudio de grabación casero con apps y dispositivos asequibles",
+            "description": "¿Alguna vez has soñado con tener tu propio estudio de grabación casero? ¡No necesitas ser un experto ni gastar una fortuna para hacerlo realidad! Hoy en día, la combinación de apps increíbles y dispositivos accesibles facilitan más que nunca este proceso. Ima…",
+            "url": "https://wwwhatsnew.com/2024/10/16/como-montar-tu-propio-estudio-de-grabacion-casero-con-apps-y-dispositivos-asequibles/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2024/09/TRUCOS-DE-TECNLOGIA.jpg",
+            "publishedAt": "2024-10-16T02:00:28Z",
+            "content": "¿Alguna vez has soñado con tener tu propio estudio de grabación casero? ¡No necesitas ser un experto ni gastar una fortuna para hacerlo realidad! Hoy en día, la combinación de apps increíbles y dispo… [+3393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ifanr.com"
+            },
+            "author": "何晓涵",
+            "title": "早报|华为官宣发布会，纯血鸿蒙或有重大更新/苹果推出新款 iPadmini/郭明錤：骁龙 8Gen4 芯片下半年出货量预估为 900 万颗",
+            "description": "· 机构：今年三季度全球智能手机出货量同比增长 5%\n· 小鹏 P7+ 汽车预售订单破 3 万\n· 因数据中心电力需求激增，Google 与核电公司签署协议#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+            "url": "https://www.ifanr.com/1602630",
+            "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/tu_bu_cover.jpg",
+            "publishedAt": "2024-10-16T00:45:20Z",
+            "content": "Beats Kim Kardashian Beats Pill \r\n10 22 nova 13 \r\n10 22 19:00 \r\nHarmonyOS NEXT 10 8 \r\n nova 13 nova 13 Pro nova 13 2xx9nova 13 Pro 3xx9\r\n iPad mini\r\n10 15 iPad mini 7 Apple \r\niPad mini 7 A17 Pro Appl… [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Baz Bamigboye",
+            "title": "Breaking Baz: Gary Oldman, ‘Slow Horses’ Star & Oscar Winner, Will Return To British Stage After 4-Decade Absence In 2025",
+            "description": "EXCLUSIVE: Slow Horses star Gary Oldman is stepping back on stage in April 2025 for the first time after an absence of nearly four decades to star in Samuel Beckett’s celebrated one-man play Krapp’s Last Tape for a limited season at the British theatre where …",
+            "url": "http://deadline.com/2024/10/gary-oldman-slow-horses-return-british-stage-4-decade-absence-1236117240/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/breaking-baz-gary-oldman.jpg?w=1024",
+            "publishedAt": "2024-10-16T03:15:45Z",
+            "content": "EXCLUSIVE: Slow Horses star Gary Oldman is stepping back on stage in April 2025 for the first time after an absence of nearly four decades to star in Samuel Beckett’s celebrated one-man play Krapp’s … [+3883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Tim Peterson",
+            "title": "Future of TV Briefing: Why interactive ads occupy the streaming ad market’s mid-funnel",
+            "description": "This week’s Future of TV Briefing looks at the role that interactive ads play in today’s streaming ad buys.",
+            "url": "http://digiday.com/future-of-tv/future-of-tv-briefing-why-interactive-ads-occupy-the-streaming-ad-markets-mid-funnel/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2024/05/tv-ads-remote-digiday.jpeg",
+            "publishedAt": "2024-10-16T04:01:00Z",
+            "content": "This Future of TV Briefing covers the latest in streaming and TV for Digiday+ members and is distributed over email every Wednesday at 10 a.m. ET. More from the series →This weeks Future of TV Briefi… [+8552 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Ronan Shields",
+            "title": "Overheard at Prebid Summit: Addressability problem ‘really needs to be considered carefully’",
+            "description": "The IP address may not be long for this world, but log-in rates are more encouraging than initially hoped for.",
+            "url": "http://digiday.com/media-buying/overheard-at-prebid-summit-addressability-problem-really-needs-to-be-considered-carefully/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/07/buyer-seller-digiday.jpg",
+            "publishedAt": "2024-10-16T04:01:00Z",
+            "content": "The fall conference season in New York City is underway, and hot on the heels of Advertising Week came Prebid Summit, a one-day gathering where independent ad tech players shared their thoughts on th… [+3952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Sergio J. Ortiz",
+            "title": "Estas alternativas al AirTag cuestan mucho menos dinero y hacen exactamente lo mismo",
+            "description": "El AirTag de Apple es uno de los mejores localizadores que existen en el mercado. Sin embargo, el AirTag no es compatible con smartphones Android. Afortunadamente hay muchas otras alternativas al AirTag por un precio mucho más asumible y en esta ocasión nos v…",
+            "url": "https://www.lavanguardia.com/andro4all/ofertas/alternativas-airtag-menos-dinero-hacen-mismo",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/atuvos.jpg?width=1200",
+            "publishedAt": "2024-10-16T00:30:14Z",
+            "content": "El localizador de ATUVOS cumple a la perfección con su cometido\r\nEl AirTag de Apple es uno de los mejores localizadores que existen en el mercado. Sin embargo, el AirTag no es compatible con smartpho… [+3398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Sergio J. Ortiz",
+            "title": "Más barato imposible: es el iPhone más vendido de Amazon y está disponible por menos de 300 euros",
+            "description": "Apple comercializa todos sus últimos modelos de iPhone en su catálogo de Amazon y algunos precios están muy rebajados. Especialmente en los modelos de generaciones pasadas. Un claro ejemplo de ello lo encontramos con este iPhone 12 de Apple. Un teléfono con u…",
+            "url": "https://www.lavanguardia.com/andro4all/ofertas/este-es-el-iphone-mas-vendido-de-amazon-y-esta-disponible-por-solo-300-euros",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/iphone-12-color-blanco.1729010742.3423.jpg?width=1200",
+            "publishedAt": "2024-10-16T05:30:35Z",
+            "content": "El iPhone 12 es uno de los teléfonos más recomendables del momento\r\nApple comercializa todos sus últimos modelos de iPhone en su catálogo de Amazon y algunos precios están muy rebajados. Especialment… [+3554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "Naïm Bada",
+            "title": "Motorola défie Apple et Google avec une IA inspirée du Rabbit R1 qui agit sans parler",
+            "description": "Motorola vient de dévoiler un nouveau concept d'IA qui pourrait bien changer la donne. S'inspirant du Rabbit R1, la firme américaine mise sur une intelligence artificielle capable d'agir directement, sans passer par la case commande vocale.",
+            "url": "https://www.clubic.com/actualite-540652-motorola-defie-apple-et-google-avec-une-ia-inspiree-du-rabbit-r1-qui-agit-sans-parler.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/2249545/raw",
+            "publishedAt": "2024-10-16T05:02:00Z",
+            "content": "En parallèle de ce concept novateur, Motorola continue de développer d'autres fonctionnalités basées sur l'IA. Lancé avec le Motorola Razr Plus 2024 plus tôt cette année, Moto AI étend progressivemen… [+221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Camila Rinaldi",
+            "title": "Vom Schrittzähler zum Smart Coach: Der Einfluss von KI auf Wearables",
+            "description": "Die neuesten KI-gesteuerten Wearables beeindrucken. Sie bieten personalisierte Gesundheitsinformationen, synchronisieren mühelos Daten und vieles mehr.",
+            "url": "https://www.nextpit.de/vom-schrittzaehler-zum-smart-coach-der-einfluss-von-ki-auf-wearables",
+            "urlToImage": "https://fs.npstatic.com/userfiles/7687254/image/Wereable_AI_Smart_Coach.jpg",
+            "publishedAt": "2024-10-16T04:30:00Z",
+            "content": "In der heutigen schnelllebigen digitalen Gesundheitslandschaft hat sich KI von einem bloßen Werkzeug zu einem zuverlässigen Co-Piloten (kein Wortspiel beabsichtigt) auf unserer Wellness-Reise entwick… [+11955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": "劉 尭",
+            "title": "人気の「iPad mini」にA17 Proチップ搭載の新モデル",
+            "description": "Appleは15日、A17 Proプロセッサを搭載し、Apple Intelligenceに対応した新「iPad mini」を予約開始した。発売は10月23日。価格は、Wi-Fiの128GBモデルが7万8,800円、256GBモデルが9万4,800円、512GBモデルが13万800円。Wi-Fi+Cellularの128GBモデルが10万4,800円、256GBモデルが12万800円、512GBモデルが15万6,800円。",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1631522.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1631/522/1.jpg",
+            "publishedAt": "2024-10-16T00:44:56Z",
+            "content": "Apple15A17 ProApple IntelligenceiPad mini1023Wi-Fi128GB78,800256GB94,800512GB13800Wi-Fi+Cellular128GB104,800256GB12800512GB156,800 \r\n 6CPU/5GPUA17 ProCPU/GPUNeural Engine2Apple IntelligenceApple Penc… [+196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Max Goldbart",
+            "title": "The Hot Ones — Drama: Epic Warriors, Nighttime Therapists & Chastened Detectives Get Set For MIPCOM",
+            "description": "Welcome to Deadline’s The Hot Ones — Drama, our guide to some of the best scripted TV being sold at MIPCOM this year. Our editorial team has done extensive research in the run-up to the 2024 market and has handpicked a selection of the projects set to be big …",
+            "url": "http://deadline.com/2024/10/spartacus-costiera-virdee-rise-of-the-raven-hot-ones-drama-mipcom-1236115400/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/Beta-Film_Rise-of-the-Raven_cKristof-Galgoczi-Nemeth_KEYVISUAL.jpg?w=1024",
+            "publishedAt": "2024-10-16T06:00:00Z",
+            "content": "Welcome to Deadline’s The Hot Ones — Drama, our guide to some of the best scripted TV being sold at MIPCOM this year. Our editorial team has done extensive research in the run-up to the 2024 market a… [+24846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Laurin Meyer, Philipp Vetter",
+            "title": "ASML sorgt für Chip-Schock und Aktien mit besonders viel Energy",
+            "description": "In der heutigen Folge von „Alles auf Aktien“ sprechen die Finanzjournalisten Laurin Meyer und Philipp Vetter über den schrumpfenden Luxus-Markt, neuen Optimismus bei Adidas und eine Berg-und-Talfahrt bei Trump Media & Technology.",
+            "url": "https://www.welt.de/podcasts/alles-auf-aktien/article254027614/Boersenpodcast-Nvidia-AMD-Intel-ASML-sorgt-fuer-den-Chip-Schock-an-der-Boerse.html",
+            "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile252967536/9577937947-ci16x9-w1200/WELT-Podcast-AAA-SB-Vetter-Meyer.jpg",
+            "publishedAt": "2024-10-16T03:28:12Z",
+            "content": "Außerdem geht es um Nvidia, AMD, Intel, LVMH, Coty, United Airlines, Amazon, Alphabet, Microsoft, Samsung, Micron, SK Hynix, TSMC, Qualcomm, Monster Beverage, Celsius, Coca-Cola, PepsiCo, Keurig Dr. … [+499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Viola Koegst",
+            "title": "So steht es um die Jugend in Deutschland",
+            "description": "Die Jugend in Deutschland ist so politisch wie seit der Wiedervereinigung nicht mehr. Die neue Shell-Jugendstudie zeigt: Immer mehr junge Männer verorten sich politisch „rechts“. Und: Sie treiben neue Ängste um. WELT-Politikredakteurin Sabine Menkens hat sich…",
+            "url": "https://www.welt.de/podcasts/article254024998/So-steht-es-um-die-Jugend-in-Deutschland-Podcast.html",
+            "urlToImage": "https://img.welt.de/img/podcasts/mobile254025094/2777935037-ci16x9-w1200/Vorstellung-19-Shell-Jugendstudie.jpg",
+            "publishedAt": "2024-10-16T02:59:08Z",
+            "content": "Abonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts oder Amazon Music.\r\nDas bringt der Tag jeden Morgen ab 5 Uhr die aktuellen News und dazu das Thema des Tages. Für alle, die wissen… [+732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Regina Kim, Contributor, \n Regina Kim, Contributor\n https://www.forbes.com/sites/reginakim/",
+            "title": "‘Love Next Door’: 15 Things You May Have Missed In Episodes 15 And 16",
+            "description": "The K-drama 'Love Next Door' on Netflix has lots of cultural references and phrases that might be confusing. Here's an explainer for some of the ones in Episodes 15-16.",
+            "url": "https://www.forbes.com/sites/reginakim/2024/10/15/love-next-door-15-things-you-may-have-missed-in-episodes-15-and-16/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670d91741edaa4a6495ab669/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-16T00:04:07Z",
+            "content": "(L-R): Jung Hae-in, Jung So-min, Kim Ji-eun and Yun Ji-on at the 'Love Next Door' production press ... [+] conference\r\nCJ ENM\r\nAt long last, heres the explainer for the final two episodes of Love Nex… [+15332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": "tks24",
+            "title": "これも時代の流れ……Apple、外付け光学ドライブ「USB SuperDrive」の販売を終了か【やじうまWatch】",
+            "description": "Appleが「USB SuperDrive」の販売を終了した可能性を、海外メディア「MacRumors」が伝えている。",
+            "url": "https://internet.watch.impress.co.jp/docs/yajiuma/1631591.html",
+            "urlToImage": "https://internet.watch.impress.co.jp/img/iw/list/1631/591/yajiuma-watch_4.png",
+            "publishedAt": "2024-10-16T03:20:00Z",
+            "content": "AppleUSB SuperDriveMacRumors \r\n USB SuperDriveCDDVDMacMacBook200816AppleMacRumorsApple16 \r\n MacBook ProApple7"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "Apple Wallet features now on ticketmaster",
+            "description": "Ticketmaster recently announced a full integration of the Apple Wallet features for its platform. As the first ticketing firm to have Apple Wallet key event information, customers can view rewards balances and get an ‘enhanced experience’, including a venue m…",
+            "url": "https://www.ilounge.com/news/apple-wallet-features-now-on-ticketmaster",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/10/Apple-Wallet.png",
+            "publishedAt": "2024-10-16T01:28:30Z",
+            "content": "Ticketmaster recently announced a full integration of the Apple Wallet features for its platform.\r\nAs the first ticketing firm to have Apple Wallet key event information, customers can view rewards b… [+729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "Apple smart glasses might debut in 2027",
+            "description": "Apple’s smart glasses might debut to consumers in 2027 alongside an AirPods model with cameras. With the successor to the Vision Pro years away, there have been rumors circulating about smart glasses. Bloomberg, in their latest newsletter, said that Apple’s V…",
+            "url": "https://www.ilounge.com/news/apple/apple-smart-glasses-might-debut-in-2027",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/10/Apple-Smart-Glasses.png",
+            "publishedAt": "2024-10-16T01:32:37Z",
+            "content": "Apple’s smart glasses might debut to consumers in 2027 alongside an AirPods model with cameras.\r\nWith the successor to the Vision Pro years away, there have been rumors circulating about smart glasse… [+726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "Apple TV+ shares ‘Silo’ season 2 trailer",
+            "description": "Apple TV+ recently showed a new trailer video for the upcoming season of ‘Silo’ ahead of its release. ‘Silo’ is an Apple TV+ sci-fi series that tells the story of a dystopian future where the surface of the Earth is uninhabitable. It’s based on ‘Wool’ a novel…",
+            "url": "https://www.ilounge.com/news/apple-tv/apple-tv-shares-silo-season-2-trailer",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/10/Silo.png",
+            "publishedAt": "2024-10-16T01:52:02Z",
+            "content": "Apple TV+ recently showed a new trailer video for the upcoming season of ‘Silo’ ahead of its release.\r\n‘Silo’ is an Apple TV+ sci-fi series that tells the story of a dystopian future where the surfac… [+652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "Digital car keys arriving to Audi, Polestar, and Volvo",
+            "description": "Apple will soon be rolling out digital car keys support for automotive manufacturers Audi, Polestar, and Volvo. Code changes were discovered in the backend of Apple Wallet, pertaining to the Cupertino-based company gearing up to add more manufacturers for its…",
+            "url": "https://www.ilounge.com/news/apple/digital-car-keys-arriving-to-audi-polestar-and-volvo",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/10/Digital-Car-Keys.png",
+            "publishedAt": "2024-10-16T01:55:29Z",
+            "content": "Apple will soon be rolling out digital car keys support for automotive manufacturers Audi, Polestar, and Volvo.\r\nCode changes were discovered in the backend of Apple Wallet, pertaining to the Cuperti… [+749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iLounge"
+            },
+            "author": "Samantha Wiley",
+            "title": "Lower-Cost Vision headset rumored to arrive in 2026",
+            "description": "A new report said that the lower-cost Vision headset device will be arriving in two years’ time. The successor to the Vision Pro will have a $2,000 price tag, which is more consumer-friendly compared to the Pro’s $3499 tag. The main difference between the two…",
+            "url": "https://www.ilounge.com/news/apple/lower-cost-vision-headset-rumored-to-arrive-in-2026",
+            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/10/Vision-Headset.png",
+            "publishedAt": "2024-10-16T01:30:52Z",
+            "content": "A new report said that the lower-cost Vision headset device will be arriving in two years’ time.\r\nThe successor to the Vision Pro will have a $2,000 price tag, which is more consumer-friendly compare… [+673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Lucas Gabriel Machado Henriques",
+            "title": "Como encontrar seu celular Samsung pelo SmartThings Find",
+            "description": "Se você costuma perder seu smartphone ou outro dispositivo da Samsung, precisa aprender a usar o SmartThings Find para nunca mais perdê-los\nO post Como encontrar seu celular Samsung pelo SmartThings Find apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2024/10/16/dicas-e-tutoriais/como-encontrar-seu-celular-samsung-pelo-smartthings-find/",
+            "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/02/procurando-celular-perdido-scaled.jpg",
+            "publishedAt": "2024-10-16T04:00:00Z",
+            "content": "Similar ao sistema da Apple, a Samsung também tem uma solução para buscar dispositivos do mesmo ecossistema. Chamado de SmartThings Find, ele é compatível com smartphones, fones de ouvido, relógios e… [+1854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Курсу акций Apple вчера удалось обновить исторический максимум",
+            "description": "Тогда как умеренные прогнозы ASML вызвали снижение курса акций Nvidia, анонс обновлённого iPad mini и появление благоприятных прогнозов по темпам экспансии производства iPhone 16 способствовали кратковременному укреплению курса акций Apple на 2,7 % до $237,49…",
+            "url": "https://3dnews.ru/1112526/kursu-aktsiy-apple-vchera-udalos-obnovit-istoricheskiy-maksimum",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/10/16/1112526/apple_01.jpg",
+            "publishedAt": "2024-10-16T04:59:00Z",
+            "content": "ASML Nvidia, iPad mini iPhone 16 Apple 2,7 % $237,49 . , .\r\n: Apple\r\n, Bloomberg, Apple $3,6 . , 1,1 % $233,85 . , Apple 35 %, Nasdaq 100 .\r\n, iPhone 16 , Apple Intelligence iOS 18.1. iOS 18.2, Apple… [+120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geekpark.net"
+            },
+            "author": null,
+            "title": "苹果 iPad mini 7上市，3999元起；英特尔 AMD 首次联手，振兴 x86；中国将探索地外生命",
+            "description": "苹果发布全新 iPad mini 7\n\n10 月 15 日，苹果今晚通过新闻稿的方式突然发布了第七代 iPad mini。这是自 2021 年以来，苹果这款最小平板的首次升级。\niPad mini 7 的显示屏与前一代基本没有变化，仍为 8.3 英寸，60Hz 刷新率。这次更新主要集中在内部硬件上，A17 Pro 芯片让这款新平板能够使用 Apple Intelligence 功能。\n新款 iPad mini 增大了入门档存储空间（128GB），并支持 Apple Pencil Pro。新款 iPad Mini …",
+            "url": "https://www.geekpark.net/news/341838",
+            "urlToImage": "https://imgslim.geekpark.net/uploads/image/file/83/67/83674b4425fe504125bb1c5dfdaab702.jpg",
+            "publishedAt": "2024-10-16T00:41:00Z",
+            "content": "iPad mini 7\r\n10 15 iPad mini 2021 \r\niPad mini 7 8.3 60Hz A17 Pro Apple Intelligence \r\n iPad mini 128GB Apple Pencil Pro iPad Mini 3999 10 17 9 10 23 \r\n90%\r\n 10 14 194.25 0.73% 90%\r\n 6 1 Meta\r\n 2028 2… [+706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netaful.jp"
+            },
+            "author": "コグレマサト",
+            "title": "【iPhone整備済製品】iPhone 13 Pro Max・iPhone 14 Plus【2024年10月16日】",
+            "description": "Apple公式サイトの「iPhone整備済製品」の情報です。 Appleの整備済み品は問題があって返品された商品などを整備し、テスト後認定されたものです。1年間の特別保証が付いています。 最新の在庫情報は「Apple整備...\n投稿 【iPhone整備済製品】iPhone 13 Pro Max・iPhone 14 Plus【2024年10月16日】 は ネタフル に最初に表示されました。",
+            "url": "https://netaful.jp/apple-refurbished/0160954.html",
+            "urlToImage": "https://netaful.jp/wp-content/uploads/2024/05/iphone-refurbished-001-28-6.jpg",
+            "publishedAt": "2024-10-16T02:00:00Z",
+            "content": "AppleiPhone\r\nApple1\r\nApple\r\niPhone 13 Pro Max 256GB – SIM[]\r\n121,800\r\niPhone 14 Plus 512GB – SIM[]\r\n133,800\r\niPhone 13 Pro Max 512GB – SIM[]\r\n146,800\r\niPhone 13 Pro Max 512GB – SIM[]\r\n146,800\r\niPhone… [+141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (Cáo - Foxtek), Cáo - Foxtek",
+            "title": "So sánh iPad mini 7 (2024) VS iPad mini 6 (2021)",
+            "description": "Vào tối ngày 15/10/2024 (theo giờ Việt Nam), Apple đã chính thức ra mắt iPad mini (A17 Pro) với nhiều nâng cấp về cấu hình phần cứng, tính năng so với tiền nhiệm iPad mini (thế hệ thứ 6) được giới thiệu cách đây hơn 3 năm.",
+            "url": "https://tinhte.vn/thread/so-sanh-ipad-mini-7-2024-vs-ipad-mini-6-2021.3839006/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/10/8484289_ipad-mini-7-vs-ipad-mini-6.jpg",
+            "publishedAt": "2024-10-16T03:06:46Z",
+            "content": "iPad mini 7 (2024) không ch c trang b chip x lý mi mà còn h tr Apple Intelligence. Ngun: Apple.\r\n3. H tr bút Apple Pencil Pro: Apple cho bit iPad mini 7 (2024) s tng thích vi bút Apple Pencil Pro hoà… [+539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (P.W), P.W",
+            "title": "Nghiên cứu của kỹ sư Apple: AI không thể tư duy toán học vì không hiểu bản chất, dễ xao nhãng",
+            "description": "Lý do nhắc đến khả năng này, và nghiên cứu về nó cũng dễ hiểu. Trong thời gian qua, khả năng lý luận và tư duy của những hệ thống machine learning, mô hình ngôn ngữ hay chatbot AI đã trở thành thứ được nhiều tập đoàn…",
+            "url": "https://tinhte.vn/thread/nghien-cuu-cua-ky-su-apple-ai-khong-the-tu-duy-toan-hoc-vi-khong-hieu-ban-chat-de-xao-nhang.3838817/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/10/8484108_CanAIthinkforitself_copy.jpg",
+            "publishedAt": "2024-10-16T04:05:04Z",
+            "content": "Ly ví d, vn là bài toán hái trái cây trên, hu ht mi mô hình u c tr con s 5 trái kiwi nh hn khi tng s. Các nhà nghiên cu cho rng, lý do là b d liu hun luyn mô hình bao gm nhng ví d tng t, phi chuyn i … [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cool3c.com"
+            },
+            "author": "Shopping guide",
+            "title": "Apple Music 到底好在哪裡？網友：「 贏在無縫串連蘋果生態系 」",
+            "description": "你是否曾經有過「Apple Music 到底好在哪裡？」的疑惑？ 其實 Apple Music 就贏在蘋果生態系的無縫串連，可以為你打造沉浸式的音樂體驗！ 下班回到家音樂自動響起，一秒暖心放鬆 圖片來源：Freepik 下班回家總是累得要命，總想要點溫暖的感覺來迎接自己。iPhone 或 iPad 建立以「到達家中」為自動化的觸發條件，並把自己最想要回家聽到的音樂，放進 Apple Music 播放列表後設定串連。 每次回家時，就自動播放最喜歡的音樂迎接自己回家！一秒就鬆啊～ 【Apple 蘋果】Apple Mu…",
+            "url": "https://www.cool3c.com/article/226792",
+            "urlToImage": "https://sw.cool3c.com/user/109957/2024/9e13311e-0c54-4c26-9325-07710b8375e6.jpg?fit=max&w=1400&q=80",
+            "publishedAt": "2024-10-16T01:56:11Z",
+            "content": "Apple Music \r\n Apple Music \r\nFreepik\r\niPhone iPad Apple Music \r\n Party\r\n Apple Music iPhone HomePodApple TV Siri \r\nFreepik\r\nFaceTime \r\nFreepik\r\nApple Music iPhone \r\n HomePod HomePod mini Apple Music … [+128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "A settembre Apple ha dominato nel settore globale smartphone",
+            "description": "Samsung e Apple continuano a dominare le varie classifiche di vendita. Crescono anche brand quali Motorola, Huawei. Nel terzo trimestre buone notizie anche per Google.\n- su macitynet.it A settembre Apple ha dominato nel settore globale smartphone",
+            "url": "https://www.macitynet.it/a-settembre-apple-ha-dominato-nel-settore-globale-smartphone/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2018/06/iphonegeneriaicona1200.jpg",
+            "publishedAt": "2024-10-16T05:59:49Z",
+            "content": "I volumi di vendita globali di smartphone (la percentuale di merce venduta al cliente finale rispetto a quella ricevuta dal fornitore ed immessa sul mercato per la vendita diretta) hanno visto un inc… [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Fabrizio Frattini",
+            "title": "iPad mini A17 Pro e iPad mini 6 a confronto, ecco chi lo deve comprare e chi no",
+            "description": "Mettiamo a confronto il nuovo iPad mini con processore A17 Pro con il \"vecchio\" iPad mini di sesta generazione. Cambia pochissimo, come ci dice Apple tra le righe. Ma dal prezzo arriva qualche buona notizia.\n- su macitynet.it iPad mini A17 Pro e iPad mini 6 a…",
+            "url": "https://www.macitynet.it/ipad-mini-a17-pro-e-ipad-mini-6-a-confronto-novita-prezzo/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/10/Apple-iPad-mini-hero-241015-scaled.jpg",
+            "publishedAt": "2024-10-16T05:29:43Z",
+            "content": "Quali sono le differenze tra un iPad Mini di sesta generazione e l’iPad mini con A17 Pro? lo dice lo stesso nome usato da Apple per differenziare i due iPad: il processore.\r\nIl solo fatto che Apple n… [+3885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Askamanager.org"
+            },
+            "author": "Ask a Manager",
+            "title": "new employee isn’t cut out for the job, former boss blasts his music, and more",
+            "description": "This post was written by Alison Green and published on Ask a Manager.\nIt’s five answers to five questions. Here we go… 1. Telling a new employee he’s not cut out for the job I began managing a new team last month. The team is very green — over half graduated …",
+            "url": "https://www.askamanager.org/2024/10/new-employee-isnt-cut-out-for-the-job-former-boss-blasts-his-music-and-more.html",
+            "urlToImage": "https://www.askamanager.org/wp-content/uploads/2022/08/Ask-a-Manager-twitter-Card-pass-3.png",
+            "publishedAt": "2024-10-16T04:03:27Z",
+            "content": "Its five answers to five questions. Here we go\r\n1. Telling a new employee hes not cut out for the job\r\nI began managing a new team last month. The team is very green — over half graduated less than t… [+11250 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphones.ru"
+            },
+            "author": "Артём Баусов",
+            "title": "Apple планирует выпустить новое устройство для умного дома в 2025 году",
+            "description": "Известный журналист Марк Гурман рассказал о планах Apple по расширению в сфере умного дома, начиная с 2025 года. Компания планирует сосредоточиться на трех ключевых направлениях: 1. Интеграция Apple Intelligence с акцентом на Siri 2. Разработка новой платформ…",
+            "url": "https://www.iphones.ru/iNotes/apple-planiruet-vypustit-novoe-ustroystvo-dlya-umnogo-doma-v-2025-godu",
+            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2024%2F10%2FIMG_3704.jpeg",
+            "publishedAt": "2024-10-16T05:49:46Z",
+            "content": "Apple , 2025 .\r\n :\r\n1. Apple Intelligence Siri2. homeOS tvOS3. Matter\r\n AI, , . Apple Intelligence App Intents, Siri .\r\n , 2025 - Apple. , iPad, Apple TV+, FaceTime, - , . , A18 .\r\n HomePod, . , , . … [+16 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Expansion.com"
+            },
+            "author": "expansion.com",
+            "title": "La Primera de Expansión sobre BBVA, CaixaBank, Apple, Enagás, Elon Musk y la criptomoneda de Trump",
+            "description": "Además, CaixaBank sella una alianza en gestión de pagos con Apple Pay y siguiendo con la serie INVESTIGACIÓN EXPANSIÓN centrada en la energía, hoy el redactor jefe de...",
+            "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2024/10/16/670f4ee6e5fdeabf498b459a.html",
+            "urlToImage": "https://phantom-expansion.unidadeditorial.es/70361e13db113f6eed3b3851bb386a11/f/webp/assets/multimedia/imagenes/2024/10/16/17290555356409.jpg",
+            "publishedAt": "2024-10-16T05:28:24Z",
+            "content": "Arrancamos este miércoles contándoles que BBVA vuelve a recortar su ganancia contable por adquirir Sabadell. Además, CaixaBank sella una alianza en gestión de pagos con Apple Pay y siguiendo con la s… [+827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thenewslens.com"
+            },
+            "author": "中央通訊社",
+            "title": "蘋果發表最新iPad mini：搭A17 Pro晶片內建AI辨識，4顏色售價1萬6900元起",
+            "description": "蘋果公司無預警發表新款iPad mini平板電腦，新款iPad mini至少配備128GB儲存空間，是前一代的2倍；1200萬像素廣角後置相機支援Smart HDR 4，可拍出具有更大動態範圍、呈現效果自然的照片。",
+            "url": "https://www.thenewslens.com/article/243265",
+            "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/1/image/2024/10/758dd658-0309-4f5d-831a-e1684e178811.png",
+            "publishedAt": "2024-10-16T01:33:08Z",
+            "content": "15A17 Pro8.3Liquid RetinaiPad miniApple Pencil ProApple Intelligence16900\r\nAIiPad miniAppTrue Tone\r\nPhoto Credit: \r\niPad miniA15 BionicA17 ProCPU30%GPU25%\r\niPad mini128GB21200Smart HDR 44iPad mini\r\nA… [+67 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livedoor.jp"
+            },
+            "author": "itsoku",
+            "title": "新型iPad miniが発表されたわけだが…お前ら買うんか？",
+            "description": "1:それでも動く名無し 警備員[Lv.139][UR武][UR防][林]  2024/10/16(水) 06:22:01.28 ID:T/nWwqet0  アップルが「iPad mini」最新版発表、Apple IntelligenceやApple Pencil Pro対応    　アップル（Apple）は、新しい「iPad mini」を発表した。アップルのAI「Apple Intelli",
+            "url": "http://blog.livedoor.jp/itsoku/archives/61875106.html",
+            "urlToImage": "https://livedoor.blogimg.jp/itsoku/imgs/0/5/050826ac-s.png",
+            "publishedAt": "2024-10-16T01:10:25Z",
+            "content": "1: [Lv.139][UR][UR][] 2024/10/16() 06:22:01.28 ID:T/nWwqet0\r\n iPad miniApple IntelligenceApple Pencil Pro \r\nAppleiPad miniAIApple IntelligenceApple Pencil Pro1523 \r\n4128GB256GB512GB3Wi-FiWi-FiCelluar… [+4053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ilsoftware.it"
+            },
+            "author": "Felice Galluccio",
+            "title": "iPhone 16 Pro: brutte notizie per chi ne vuole acquistare uno",
+            "description": "Stando alle stime ufficiali, attualmente è ancora difficile comprare un iPhone 16 pro in quanto la richiesta ad Apple è molto alta.",
+            "url": "https://www.ilsoftware.it/iphone-16-pro-richiesta-alta-disponibilita-prezzi/",
+            "urlToImage": "https://cdn.ilsoftware.it/3uWMHUG_7fgwaQ-jsDTBLy4yyx4=/2160x1168/filters:format(webp)/https://www.ilsoftware.it/app/uploads/2024/10/iphone-16-pro-richiesta-alta-disponibilita-prezzi-1.jpg",
+            "publishedAt": "2024-10-16T05:45:44Z",
+            "content": "Tutto quello che interessa agli utenti al giorno d’oggi quando si parla di smartphone, è avere una soluzione funzionale che sia in grado di rispettare le loro esigenze. È sempre più chiaro il discors… [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T05:18:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T05:40:50Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T05:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autocar"
+            },
+            "author": "Autocar",
+            "title": "My Week In Cars: New Steve Cropley/Matt Prior podcast (ep.110)",
+            "description": "Prior and Cropley talk the all-new AC Cobra, that Morgan has a new gaffer, and what's happening to small used car prices\n\nThis week your My Week In Cars hosts Steve Cropley and Matt Prior talk about the all-new AC Cobra, which Prior has driven exclusively, th…",
+            "url": "https://www.autocar.co.uk/car-news/podcasts-my-week-in-cars/my-week-cars-new-steve-cropleymatt-prior-podcast-ep110",
+            "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/accobraxp01-123.jpg",
+            "publishedAt": "2024-10-16T05:00:00Z",
+            "content": "This week your My Week In Cars hosts Steve Cropley and Matt Prior talk about the all-new AC Cobra, which Prior has driven exclusively, that Morgan has a new managing director, a shift in small used c… [+553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Paul Tan's Automotive News"
+            },
+            "author": "Hazril Hafiz",
+            "title": "Mitsubishi Triton 2025 dilancarkan di Malaysia — lima varian, 2.4 liter turbo 204 PS/470 Nm; dari RM102k",
+            "description": "Mitsubishi Motors Malaysia (MMM) hari ini secara rasminya memperkenalkan trak pikap Mitsubishi Triton 2025 generasi keenam (atau generasi ketiga jika mengikut nama tersebut digunakan di Malaysia) untuk pasaran tempatan, selepas lebih setahun pengenalan global…",
+            "url": "https://paultan.org/2024/10/16/mitsubishi-triton-2025-dilancarkan-di-malaysia/",
+            "urlToImage": "https://paultan.org/image/2024/10/2024_Mitsubishi_Triton_Athlete_Preview_Malaysia_Ext-1_BM-1200x801.jpg",
+            "publishedAt": "2024-10-16T02:48:32Z",
+            "content": "Mitsubishi Motors Malaysia (MMM) hari ini secara rasminya memperkenalkan trak pikap Mitsubishi Triton 2025 generasi keenam (atau generasi ketiga jika mengikut nama tersebut digunakan di Malaysia) unt… [+5851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Paul Tan's Automotive News"
+            },
+            "author": "Jonathan James Tan",
+            "title": "Xiaomi SU7 EV on display at Suria KLCC until Sunday – Max variant with 673 PS, 838 Nm, 0-100 km/h 2.78s!",
+            "description": "Look what we have here – the Xiaomi SU7 is on display at Suria KLCC’s Centre Court until Sunday! Before you get your pants in a twist, it’s not a launch – Xiaomi has brought the car in for demo purposes only; for now it’s only on sale in China, […]\nThe post X…",
+            "url": "https://paultan.org/2024/10/16/xiaomi-su7-ev-on-display-at-suria-klcc-until-sunday-max-variant-with-673-ps-838-nm-0-100-km-h-2-78s/",
+            "urlToImage": "https://paultan.org/image/2024/10/Xiaomi-SU7-Max-Malaysian-showcase-2-1200x786.jpg",
+            "publishedAt": "2024-10-16T04:35:06Z",
+            "content": "Look what we have here – the Xiaomi SU7 is on display at Suria KLCC’s Centre Court until Sunday, its first time in Malaysia! Before you get your pants in a twist, it’s not a launch – Xiaomi has broug… [+5024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Paul Tan's Automotive News"
+            },
+            "author": "Mick Chan",
+            "title": "2024 Mitsubishi Triton in Malaysia – new 2.4L 4N16 engine, up to 204 PS/470 Nm, RM102k to RM166k",
+            "description": "Today, the all-new Mitsubishi Triton has finally made its official launch in Malaysia, following its world debut in July 2023. A total of five variants of the latest Triton have been introduction to the market […]\nThe post 2024 Mitsubishi Triton in Malaysia –…",
+            "url": "https://paultan.org/2024/10/16/2024-mitsubishi-triton-in-malaysia-new-2-4l-4n16-engine-up-to-204-ps-470-nm-rm102k-to-rm166k/",
+            "urlToImage": "https://paultan.org/image/2024/10/2024_Mitsubishi_Triton_Athlete_Preview_Malaysia_Ext-1-1200x801.jpg",
+            "publishedAt": "2024-10-16T02:47:42Z",
+            "content": "Today, the all-new Mitsubishi Triton has finally made its official launch in Malaysia, following its world debut in July 2023. \r\nA total of five variants of the latest Triton have been introduction t… [+7912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "David Vogel (dv), David Signer (dai)",
+            "title": "AMERIKA ENTSCHEIDET - Der Hurrikan-Effekt",
+            "description": "Gleich zwei Wirbelstürme haben in den letzten Wochen in den USA gewütet – mitten im Wahlkampf. Während Kamala Harris sich als Krisenmanagerin beweisen will, wirft Donald Trump der Regierung komplettes Versagen vor. Wer profitiert?",
+            "url": "https://www.nzz.ch/podcast/hurrikan-einfluss-der-wirbelstuerme-auf-den-us-wahlkampf-amerika-entscheidet-ld.1853043",
+            "urlToImage": "https://img.nzz.ch/2024/08/20/5fd17000-c595-4e64-994f-7c172821717e.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y745&wmark=nzz",
+            "publishedAt": "2024-10-16T03:30:00Z",
+            "content": "Hören und abonnieren Sie den Podcast «NZZ Geopolitik: Amerika entscheidet» auch auf Spotify,Apple Podcasts oder Castbox.\r\nHaben Sie ein Feedback zum Podcast? Sagen Sie uns Ihre Meinung.\r\nIn dieser Po… [+1283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Marie-Astrid Langer (lma)",
+            "title": "Elon Musk unterstützt Trump, Steve Jobs’ Witwe mag Harris. Warum das Silicon Valley für den Wahlkampf so wichtig ist",
+            "description": "Amerikas Technologie-Mekka gilt als Hochburg der Demokraten. Doch bei genauerem Hinsehen zeigt sich, dass viele Tech-Unternehmer Donald Trump unterstützen. Das hat verschiedene Gründe.",
+            "url": "https://www.nzz.ch/pro/trump-gegen-harris-die-rolle-des-silicon-valley-im-us-wahlkampf-ld.1852457",
+            "urlToImage": "https://img.nzz.ch/2024/10/11/64c1ff8e-0309-4f4d-a3b3-4f98bb478ff2.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5657,3182,x0,y0&wmark=nzz",
+            "publishedAt": "2024-10-16T03:30:00Z",
+            "content": "Bei einem Wahlkampfauftritt in Butler, Pennsylvania, im Oktober macht Elon Musk Werbung für Donald Trump. Den freuts.\r\nBegeistert springt und tanzt Elon Musk über die Bühne in Pennsylvania, wirft die… [+9725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ifun.de › Apple-News seit 2001"
+            },
+            "author": "Chris",
+            "title": "Apple Pencil: Das richtige Modell findet sich jetzt etwas einfacher",
+            "description": "Mit der Vorstellung des neuen iPad mini hat Apple auch das Verkaufsregal des Apple Pencil aufgeräumt und die Auswahl übersichtlicher und damit einfacher gemacht. Anstatt der hier bislang präsentierten vier verschiedenen Modelle müssen sich Kunden nur noch zwi…",
+            "url": "https://www.ifun.de/apple-pencil-das-richtige-modell-findet-sich-jetzt-etwas-einfacher-241578/",
+            "urlToImage": "https://images.ifun.de/wp-content/uploads/2024/05/ipad-apple-pencil-feature.jpg",
+            "publishedAt": "2024-10-16T04:58:02Z",
+            "content": "Mit der Vorstellung des neuen iPad mini hat Apple auch das Verkaufsregal des Apple Pencil aufgeräumt und die Auswahl übersichtlicher und damit einfacher gemacht. Anstatt der hier bislang präsentierte… [+1822 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Stacy Fernandez",
+            "title": "‘That’s when I go to the front and ask if I can buy the whole bag for a deep discount’: Target shopper takes 1 caramel apple lollipop from open bag. Is it stealing?",
+            "description": "Do you think what this woman did at Target counts as stealing candy? Commenters have mixed reactions to what she did.\n\n\nThe cardinal rule of shoplifting is never to steal from mom-and-pop shops or individuals. But for many people, controversial, multi-billion…",
+            "url": "https://www.dailydot.com/news/target-candy-apple-lollipop/",
+            "urlToImage": "https://uploads.dailydot.com/2024/10/target-is-taking-one-lollipop-stealing.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-10-16T00:00:00Z",
+            "content": "Do you think what this woman did at Target counts as stealing candy? Commenters have mixed reactions to what she did.\r\nThe cardinal rule of shoplifting is never to steal from mom-and-pop shops or ind… [+3901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "MoneyDJ",
+            "title": "蘋果股價近史高，AI iPhone 16 Pro、Pro Max 到貨時間增",
+            "description": "第一階段「Apple Intelligence」即將於 10 月 28 日釋出，最新統計顯示，蘋果（Apple Inc.） iPhone 16 整體到貨時間雖仍低於上一代，但 Pro、Pro Max 版近來卻開始增加。 Seeking Alpha 15日報導，摩根士丹利（Morgan Stanley...",
+            "url": "https://technews.tw/2024/10/16/apple-iphone-16-pro-lead-times-up-as-apple-intelligence-roll-out-nears/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/10/01161355/amanz-4gtMwj9uxwc-unsplash.jpg",
+            "publishedAt": "2024-10-16T04:45:50Z",
+            "content": "Apple Intelligence 10 28 Apple Inc. iPhone 16 ProPro Max \r\nSeeking Alpha 15Morgan StanleyiPhone 16PlusProPro MaxiPhone 15iPhone 1520.9iPhone 1613.25\r\niPhone 16 ProPro Max20.527.5iPhone 1534.827.5\r\nEr… [+152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "MoneyDJ",
+            "title": "AI 旺，台灣主要 IT 廠營收續大增、創歷史次高紀錄",
+            "description": "AI 伺服器相關需求旺，帶動台灣主要 IT 廠營收連 7 個月增長、續現兩位數增幅，月營收規模連 7 個月高於 1 兆元（台幣，以下同），創下歷史次高紀錄。 日經新聞15日報導，供應大量產品、半導體給蘋果（Apple）、微軟（Microsoft）、輝達（Nvidia）等客戶的台灣主要IT廠營收持續大...",
+            "url": "https://technews.tw/2024/10/16/it-factories-taiwan-revenue-september/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2021/10/20113007/shutterstock_1196754286.png",
+            "publishedAt": "2024-10-16T00:40:20Z",
+            "content": "AI IT 7 7 1 \r\n15AppleMicrosoftNvidiaITAI20249Asia30019IT16,29714.0%7610%71201312022917,060\r\nEMS4910.9%57.9%939.6%AIiPhone 16iPhone917.1%\r\nPC917.7%1.6%923.8%\r\niPhone698PC8320131IT\r\nMoneyDJ shutterstock"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Item-get.com"
+            },
+            "author": null,
+            "title": "A17 Proチップ搭載のiPad mini 7が発表、価格は128GBモデルで78,800円から",
+            "description": "iPad mini 7がひっそりと発表されました。10月に登場が噂されていた2024年モデルで、M4 Macの発表イベントで登場すると思われていましたが、Apple News Roomを介して単体での発表となりました。\nApple Intelligence対応のためにA17 Proチップを搭載し、Apple Pencil Proも使えるようになっています。A17 ProチップはiPhone 15 Proに搭載されているものと同じです。\n10月23日より発売され、価格は128GBモデルが78,800円、256GBモ…",
+            "url": "https://ipod.item-get.com/2024/10/a17_proipad_mini_7128gb78800.php",
+            "urlToImage": "https://ipod.item-get.com/img/24/10/iPadmini7_2024_release-1.jpg",
+            "publishedAt": "2024-10-16T04:29:05Z",
+            "content": "iPad mini 7102024M4 MacApple News Room\r\nApple IntelligenceA17 ProApple Pencil ProA17 ProiPhone 15 Pro\r\n1023128GB78,800256GB94,800512GB130,800\r\niPad mini 664GB84,800256GB110,800\r\n12MP/1.84K@60fps\r\niPa… [+326 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Classmethod.jp"
+            },
+            "author": "香園 紳瑛",
+            "title": "好きな人から告白される Apache（httpd）Web サーバーを EC2 インスタンス上に起動してみました",
+            "description": "好きな人から告白される Apache（httpd）Web サーバーを EC2 インスタンス上に起動してみました",
+            "url": "https://dev.classmethod.jp/articles/ec2-apache-httpd-web-kazono-shinei/",
+            "urlToImage": "https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-bac3d29aa65f45576f73094798087ee5/039ad6f8a7d8f18da47986d21c447f48/amazon-ec2",
+            "publishedAt": "2024-10-16T01:27:59Z",
+            "content": "ApachehttpdWeb EC2 \r\nHTTP Apache \r\nmac zsh\r\nmac OS Sonoma 14.7zsh 5.9 (x86_64-apple-darwin23.0)\r\nMac Chrome EC2 https://dev.classmethod.jp/articles/ec2-ssh-kazono-shinei/EC2 OS Amazon Linux AMI Amazo… [+1926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mobiFlip.de"
+            },
+            "author": "Oliver Schwuchow",
+            "title": "Der neue Amazon Kindle für 2024 rückt näher",
+            "description": "Amazon hat vermutlich noch vor Weihnachten eine Ankündigung rund um die Kindle-Reihe geplant, denn man wird mindestens zwei E-Reader passend für die lukrative Jahreszeit aktualisieren, den Amazon Kindle und den Kindle ...",
+            "url": "https://www.mobiflip.de/shortnews/neu-amazon-kindle-2024/",
+            "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2024/09/amazon-kindle-2024-header.jpg",
+            "publishedAt": "2024-10-16T03:50:44Z",
+            "content": "Amazon hat vermutlich noch vor Weihnachten eine Ankündigung rund um die Kindle-Reihe geplant, denn man wird mindestens zwei E-Reader passend für die lukrative Jahreszeit aktualisieren, den Amazon Kin… [+962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.abc.es"
+            },
+            "author": "(abc)",
+            "title": "Pódcast | «Una gran estafa del cine romántico es hacer creer que podrás cambiar al otro en cinco días»",
+            "description": "Amor romántico, amor real. Expectativas y realidad. Ilusiones y decepciones. Y en medio, el cine, las series de televisión, el arte, la música y la literatura adornando…. En este episodio del podcast 'Abecedario del bienestar la psicóloga' las periodistas Lau…",
+            "url": "https://www.abc.es/bienestar/psicologia-sexo/sexualidad/podcast-gran-estafa-cine-romantico-creer-podras-20241016144202-nt.html",
+            "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/bienestar/2024/10/16/bienestar-amor-1200x840-U81788051764BJf-1024x512@diario_abc.jpg",
+            "publishedAt": "2024-10-16T02:05:00Z",
+            "content": "Amor romántico, amor real. Expectativas y realidad. Ilusiones y decepciones. Y en medio, el cine, las series de televisión, el arte, la música y la literatura adornando. En este episodio del podcast … [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.abc.es"
+            },
+            "author": "(abc)",
+            "title": "Ep. 3 | Cómo disfrutar del sexo en menopausia con ganas y sin culpa",
+            "description": "Hablar de sexo en plena revolución de hormonas no solo es oportuno sino necesario. La sequedad vaginal y los cambios en la libido son habituales en la menopausia y en ocasiones vienen acompañados de culpa y vergüenza. Aunque tal vez habría que preguntarse si …",
+            "url": "https://www.abc.es/bienestar/psicologia-sexo/sexualidad/sexo-menopausia-orgasmo-20241016174340-nt.html",
+            "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2024/10/16/menopausia-ep3-1920x1080-limpia.jpg",
+            "publishedAt": "2024-10-16T04:00:04Z",
+            "content": "Hablar de sexo en plena revolución de hormonas no solo es oportuno sino necesario. La sequedad vaginal y los cambios en la libido son habituales en la menopausia y en ocasiones vienen acompañados de … [+1558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Appllio.com"
+            },
+            "author": "アプリオ編集部",
+            "title": "アップル、iPad miniの新モデルを発表　「A17 Pro」搭載でApple Intelligenceに対応",
+            "description": "Appleは2024年10月15日、iPad miniの最新モデルを発表しました。新しいiPad miniの予約受付はすでに開始されており、2024年10月23日から発売されます。",
+            "url": "https://appllio.com/news/2024-10-16-55696-ipad-mini-2024",
+            "urlToImage": "https://appllio.com/sites/default/files/styles/cover_xl_1/public/2024/10/16/entryimage-ipad-mini-2024.jpg",
+            "publishedAt": "2024-10-16T02:20:25Z",
+            "content": "Apple20241015iPad miniiPad mini20241023\r\niPad mini8.3A17 ProA15 BionicAppleAIApple Intelligence\r\nA17 Pro6CPU5GPUCPU3025Apple Pencil Pro\r\nApple IntelligenceChatGPT\r\nWi-Fi 6ECellular5GCellulareSIM\r\niPa… [+59 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Felipe Branco Cruz",
+            "title": "Em show em SP, Paul McCartney chama Lennon de “mano” e Harrison de “parça”",
+            "description": "O cantor apresentou pela primeira vez no Brasil a nova canção dos Beatles, 'Now and Then', em show com 37 músicas no repertório e frases em português",
+            "url": "https://veja.abril.com.br/coluna/o-som-e-a-furia/em-show-em-sp-paul-mccartney-chama-lennon-de-mano-e-harrison-de-parca",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/10/SHOW-Paul-McCartney-ALLIANZ-PARQUE-SP-2024-Day1-_-@marcoshermes-1.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+            "publishedAt": "2024-10-16T03:01:04Z",
+            "content": "Último mês: Veja por apenas 4,00/mês\r\nContinua após publicidade\r\nPaul McCartney se apresenta no Allianz Parque, em São Paulo, em 15/10/2024 (Marcos Hermes/Divulgação)\r\nContinua após publicidade\r\nAos … [+5271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitimes"
+            },
+            "author": "Levi Li",
+            "title": "Largan reportedly to address iPhone 16 shipment concerns at October 17 earnings call",
+            "description": "As the second wave of iPhone 16 shipments begins, supply chain sources report that sales have underperformed. Apple's 2024 strategy centered on Apple Intelligence, but key features have been delayed and won't be fully available globally until 2025. Non-Englis…",
+            "url": "https://www.digitimes.com/news/a20241016PD209/largan-precision-2024-earnings-iphone-sales-shipments.html",
+            "urlToImage": "https://img.digitimes.com/newsshow/20241016pd209_files/1_b.jpg",
+            "publishedAt": "2024-10-16T02:47:32Z",
+            "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barks.jp"
+            },
+            "author": "BARKS",
+            "title": "フェンダー、究極のギター＆ベースシリーズ『AMERICAN ULTRA II』を発表",
+            "description": "フェンダーが、最も先進的なギター＆ベースシリーズ「American Ultra」の次世代ラインナップ『American Ultra II』を発表した。本シリーズのモデルは、プレミアムな素材、精巧なクラフトマンシップ...",
+            "url": "https://www.barks.jp/news/?id=1000251434#utm_source=feed_news&utm_medium=feed&utm_campaign=feed",
+            "urlToImage": "https://img.barks.jp/img/article/1000251434/H/1200.jpg",
+            "publishedAt": "2024-10-16T01:26:54Z",
+            "content": "American UltraAmerican Ultra IICNC1950\r\nAmerican Ultra IIDUltra NoiselessHaymakerFenderCharvelEVHJacksonFender\r\n5Ultra II Jazz Bass VFenderUltra II Meteora\r\nAmerican Ultra IIAmerican Ultra II America… [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Niko4123",
+            "title": "Apple iPad Mini получает обновление A17 Pro для Apple Intelligence",
+            "description": "Сегодня Apple представила свой планшет iPad mini последнего поколения, работающий на фирменном чипе A17 Pro.",
+            "url": "https://overclockers.ru/blog/New_Intel_Raptor_ES/show/185668/Apple-iPad-Mini-poluchaet-moschnoe-obnovlenie-A17-Pro-dlya-Apple-Intelligence",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/416880/574179_O.jpg",
+            "publishedAt": "2024-10-16T03:50:34Z",
+            "content": "Apple , iPad mini « Apple Intelligence», - iPhone 16 ( iPhone 15 ), Apple Intelligence iOS 18.1. , iPad mini . Apple M , A17 Pro - : 6- ,   , Apple, 30%- . A17 Pro 5- , , 25% .\r\n 16- Neural Engine, A… [+484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphone-mania.jp"
+            },
+            "author": "FT729",
+            "title": "AirPods Pro 2の新しいベータ・ファームウェアがリリース〜頻回更新続く",
+            "description": "Appleが2024年10月16日、AirPods Pro 2向けの新しいベータ・ファームウェアをリリースしました。 ここ数カ月、AirPods Pro 2のベータ・ファームウェアが頻繁にリリースされています。 前回のベ […]",
+            "url": "https://iphone-mania.jp/airpods-589391/",
+            "urlToImage": "https://iphone-mania.jp/uploads/2024/10/16/AirPods-Pro-2-FW-1016_1200.jpg",
+            "publishedAt": "2024-10-16T00:50:35Z",
+            "content": "Apple20241016AirPods Pro 2\r\nAirPods Pro 2\r\nAirPods Pro 27B5013d1027B5013c2\r\n7B5013dAirPods Pro 2LightningUSB-C\r\n7B5013d\r\nSource:MacRumors\r\nPhoto:Apple Pro@aaplpro/X"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kocpc.com.tw"
+            },
+            "author": "Shengti",
+            "title": "想買 iPad mini 7？最便宜的 10 個國家排名：台灣名列第 5 ，比日本便宜",
+            "description": "Apple 於台灣時間昨（15）日晚間突襲發表全新 iPad mini 7 / iPad mini (A17 Pro) ，也很快將在 10 月 23 日於 29 個國家開賣。雖然台灣目前還得等 NCC 通過，確切的發售日期還要等待 Apple 官方的消息，不過各位如果有計劃更快入手 iPad mini ，同時想省點荷包便宜購入，接著就來看看全球最便宜的 10 個國家排名吧！\nThe post 想買 iPad mini 7？最便宜的 10 個國家排名：台灣名列第 5 ，比日本便宜 appeared first on…",
+            "url": "https://www.kocpc.com.tw/archives/569996",
+            "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2024/10/20241016084428_0_d919ab.jpg",
+            "publishedAt": "2024-10-16T02:10:48Z",
+            "content": "Apple 15 iPad mini 7 / iPad mini (A17 Pro) 10 23 29 NCC Apple iPad mini 10 \r\nApple\r\niPad mini 7 / iPad mini (A17 Pro) 10 Apple iPad mini NCC Apple iPad mini 7 / iPad mini (A17 Pro) Nukeni iPad mini (… [+1486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Mac Observer"
+            },
+            "author": "Devesh Beri",
+            "title": "iPad Mini 7 Has Twice the RAM of iPad Mini 6; What Else Has Changed?",
+            "description": "Apple has unveiled the iPad Mini 7, with several upgrades over its predecessor, the iPad Mini 6. Here's a detailed comparison of the two models:\n\n\n\nBoth models have an 8.3\" LCD display with a 60Hz refresh rate and Touch ID.\n\n\n\nPerformance\n\n\n\n\niPad Mini 6: Equ…",
+            "url": "https://www.macobserver.com/news/ipad-mini-7-has-twice-the-ram-of-ipad-mini-6-what-else-has-changed/",
+            "urlToImage": "https://www.macobserver.com/wp-content/uploads/2024/04/2024-iPad-mini-and-Low-end-iPad-Might-Not-Hit-Shelves-Until-Late-2024.jpg",
+            "publishedAt": "2024-10-16T06:03:48Z",
+            "content": "Apple has unveiled the iPad Mini 7, with several upgrades over its predecessor, the iPad Mini 6. Here’s a detailed comparison of the two models:\r\nBoth models have an 8.3″ LCD display with a 60Hz refr… [+1045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadget2ch.com"
+            },
+            "author": "Gadget 2ch",
+            "title": "iPad miniの新モデルが発表されたわけだが…お前ら買うんか？",
+            "description": "どうしようかなぁ・・・ 1: それでも動く名無し 2024/10/16(水) 06:22:01.28 ID:T/nWwqet0 アップルが「iPad mini」最新版発表、Apple IntelligenceやApple...",
+            "url": "http://www.gadget2ch.com/archives/post-240597.html",
+            "urlToImage": "https://i0.wp.com/www.gadget2ch.com/wp-content/uploads/2024/10/l_my_1015apple03-1.jpg?fit=300%2C300",
+            "publishedAt": "2024-10-16T00:52:28Z",
+            "content": "1: 2024/10/16() 06:22:01.28 ID:T/nWwqet0\r\niPad miniApple IntelligenceApple Pencil Pro AppleiPad miniAIApple IntelligenceApple Pencil Pro1523 \r\n4128GB256GB512GB3Wi-FiWi-FiCelluar\r\n2: 2024/10/16() 06:2… [+2516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gdm.or.jp"
+            },
+            "author": null,
+            "title": "Apple、「iPad mini(第7世代)」発表。iPhone 15 Pro同等のA17 Pro搭載で性能大幅向上",
+            "description": "Apple Inc.（本社：アメリカ カリフォルニア州）は2024年10月15日（現地時間）、A17 Proを搭載した最新世代のコンパクトタブレット「iPad mini(第7世代)」を発表した。予約受け付けが始まっており、10月23日より販売が開始される。市場想定売価はWi-Fiモデルが税込78,800円から、Wi-Fi+Cellularモデルが税込104,800円から。",
+            "url": "https://www.gdm.or.jp/pressrelease/2024/1016/558958",
+            "urlToImage": "https://www.gdm.or.jp/wp-content/uploads/2024/10/16/iPad_mini_7th_gen_01.jpg",
+            "publishedAt": "2024-10-16T03:00:18Z",
+            "content": "Apple Inc. 20241015A17 ProiPad mini(7)1023Wi-Fi78,800Wi-Fi+Cellular104,800\r\niPhone 13iPhone 13 Pro120Hz1TB2021.09.15 13:00 \r\n20219iPad mini(6)iPad mini\r\nSoCiPhone 15 ProA17 ProCPU305GPU25Neural Engin… [+178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Jo Borrás",
+            "title": "Tesla needs to come clean about HW3, 2025 GMC Sierra leaks, and big windmills",
+            "description": "On today’s exciting episode of Quick Charge, we think Tesla needs to come clean about what’s happening with HW3, GMC leaks 2025 Sierra EV Denali pricing online, and charging up your Nissan and VW might have just gotten a whole lot easier.\n\n\n\n more…",
+            "url": "http://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-2025-gmc-sierra-leaks-and-big-windmills/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/not-a-lie.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-10-16T00:36:21Z",
+            "content": "On today’s exciting episode of Quick Charge, we think Tesla needs to come clean about what’s happening with HW3, GMC leaks 2025 Sierra EV Denali pricing online, and charging up your Nissan and VW mig… [+1053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smartmania.cz"
+            },
+            "author": "Dominik Vlasák",
+            "title": "Tyto automobilky už brzy přidají podporu pro odemykání aut iPhonem",
+            "description": "<ul>\n<li>Apple umožňuje uložení digitálních klíčů od auta do aplikace Peněženka</li>\n<li>Podpora se nyní rozšíří do tři nové automobilky, konkrétně Audi, Polestar a Volvo</li>\n<li>Kdy podpora dorazí a o jaké konkrétní modely půjde prozatím netušíme</li>\n</ul>…",
+            "url": "https://smartmania.cz/tyto-automobilky-uz-brzy-pridaji-podporu-pro-odemykani-aut-iphonem/",
+            "urlToImage": "https://smartmania.cz/wp-content/uploads/2024/10/Apple-Audi-Midjourney.jpg",
+            "publishedAt": "2024-10-16T04:30:54Z",
+            "content": "<ul><li>Apple umouje uloení digitálních klí od auta do aplikace Penenka</li><li>Podpora se nyní rozíí do ti nové automobilky, konkrétn Audi, Polestar a Volvo</li><li>Kdy podpora dorazí a o jaké konkr… [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fortheloveofcooking.net"
+            },
+            "author": "Pam",
+            "title": "Apple Brie Crostini with Hot Honey",
+            "description": "These crunchy slices of toasted baguette topped with creamy brie, crisp apples, a drizzle of spicy hot honey, and a few candied pumpkin seeds make the perfect fall appetizer. I whipped up this easy apple brie crostini with hot honey and candied pumpkin seeds …",
+            "url": "https://fortheloveofcooking.net/recipe/apple-brie-crostini-with-hot-honey",
+            "urlToImage": "https://fortheloveofcooking-net.exactdn.com/wp-content/uploads/2024/10/Apple-Brie-Crostini-with-Hot-Honey-6183.jpg?strip=all&lossy=1&quality=90&ssl=1",
+            "publishedAt": "2024-10-16T02:01:52Z",
+            "content": "These crunchy slices of toasted baguette topped with creamy brie, crisp apples, a drizzle of spicy hot honey, and a few candied pumpkin seeds make the perfect fall appetizer.\r\nI whipped up this easy … [+3734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadget2ch.com"
+            },
+            "author": "Gadget 2ch",
+            "title": "【悲報】Spotifyさん、Apple Musicよりも音質が悪いことがバレ始める",
+            "description": "前から言われてない？ 1: 以下、5ちゃんねるからVIPがお送りします 2024/10/16(水) 06:54:41.792 ID:37LU3dV40 SpotifyよりApple Musicのほうが音質がいいという言説...",
+            "url": "http://www.gadget2ch.com/archives/post-240622.html",
+            "urlToImage": "https://i0.wp.com/www.gadget2ch.com/wp-content/uploads/2024/10/cf51f84bad6629-1-1.jpg-1.webp?fit=300%2C300",
+            "publishedAt": "2024-10-16T01:52:19Z",
+            "content": "1: 5VIP 2024/10/16() 06:54:41.792 ID:37LU3dV40\r\nSpotifyApple Music320kbpsmp3wavApple MusicApple Music\r\nAzusa Suga (f.k.a. bot) (@chelseaguitar) October 15, 2024\r\nSpotifyAppleMusic\r\n(@yoursilentface7)… [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Provideocoalition.com"
+            },
+            "author": "Michelle DeLateur",
+            "title": "Head in the Clouds, Feet on the Ground, at NAB Show New York",
+            "description": "“I’ve got my feet in the clouds, got my head on the ground.” – Paul McCartney The New York City soundtrack is one of noise. The sounds envelope our “Brooklyn Dodging,” an art we carry into Manhattan; dipping, diving, dodging and weaving around selfies, cabs, …",
+            "url": "https://www.provideocoalition.com/head-in-the-clouds-feet-on-the-ground-at-nab-show-new-york/",
+            "urlToImage": "https://www.provideocoalition.com/wp-content/uploads/IMG_1781-2.gif",
+            "publishedAt": "2024-10-16T03:58:52Z",
+            "content": "I’ve got my feet in the clouds, got my head on the ground. – Paul McCartney\r\nThe New York City soundtrack is one of noise. The sounds envelope our Brooklyn Dodging, an art we carry into Manhattan; di… [+10488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boston Herald"
+            },
+            "author": "Gretchen McKay",
+            "title": "Waffles aren’t just for breakfast anymore",
+            "description": "Three waffle recipes you'll want to try: a sweet apple-topped waffle for breakfast, a cornmeal waffle topped with cheesy, homemade chili con queso for brunch and for dinner, a waffle topped with buttermilk-brined fried chicken with hot honey.",
+            "url": "https://www.bostonherald.com/2024/10/16/waffles-arent-just-for-breakfast-anymore/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/10/BHR-Z-WAFFLES-01_39623e.jpg?w=1024&h=703",
+            "publishedAt": "2024-10-16T05:08:42Z",
+            "content": "Three waffle recipes you'll want to try: a sweet apple-topped waffle for breakfast, a cornmeal waffle topped with cheesy, homemade chili con queso for brunch and for dinner, a waffle topped with butt… [+42 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Svethardware.cz"
+            },
+            "author": "Milan Šurkala",
+            "title": "MediaTek se chlubí výkonem 3nm procesoru Dimensity 9400, Apple poráží o 10-20 %",
+            "description": "MediaTek nedávno uvedl nový mobilní procesor Dimensity 9400. Ten je vyráběn 3nm procesem, čímž se dotahuje na Apple. Podle nedávné prezentace ho překonává výkonem CPU i GPU, a to o 10 až 20 %.",
+            "url": "https://www.svethardware.cz/mediatek-se-chlubi-vykonem-3nm-procesoru-dimensity-9400-apple-porazi-o-10-20/61242",
+            "urlToImage": "https://www.svethardware.cz/mediatek-se-chlubi-vykonem-3nm-procesoru-dimensity-9400-apple-porazi-o-10-20/61242/img/mediatek-dimensity-9400-800.webp",
+            "publishedAt": "2024-10-16T04:05:03Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tabkul.com"
+            },
+            "author": "タブクル管理人",
+            "title": "iPad mini 7 (A17 Pro) 発表、第6世代とスペック比較・買い替え時の注意点は２つ",
+            "description": "Appleは日本時間2024年10月16日、第7世代となるミニタブレット端末「iPad mini（A17 Pro）」を発表した。筐体サイズは変わらず、重量も同じ、内臓パーツがアップグレードされているのが特徴。また最新モデ […]",
+            "url": "https://tabkul.com/?p=296096",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T01:17:19Z",
+            "content": "7A17 Pro6\r\n<ul><li>8.3 Liquid Retina P3True Tone </li><li>12MP4K12MP </li><li>USB-C</li><li>Touch ID</li><li>2</li><li>5G</li><li>195.4 x 134.8 x 6.3mm</li><li>WiFi293gCellular297g</li><li>WiFi109</l… [+522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday.jp"
+            },
+            "author": "編集部",
+            "title": "英国でプライムビデオへの広告投資を呼び込む Amazon 。最大の強みは1900万人というユーザー規模",
+            "description": "記事のポイント\r\n\n<ul>\n<li>Amazonプライムビデオ利用者数が1900万人を突破し、広告主へのリーチも拡大。</li>\n</ul>\n<ul>\n<li>プライムビデオ広告キャンペーンでブランド認知度や売上を向上させた成功例も。</li>\n</ul>\n<ul>\n<li>コンテンツ多様化とDSP強化により、ストリーミングサービス界の王者をめざす。</li>\n</ul>\n\nもはやほとんど疑問の余地はなかったが、英国の広告主への新たなピッチによりAmazonの意図が明らかになった。同社はプライムビデオに広告費を…",
+            "url": "https://digiday.jp/platforms/with-19-million-viewers-in-its-ad-tier-amazon-makes-a-case-for-prime-videos-ad-business-in-the-u-k/",
+            "urlToImage": "https://digiday.jp/wp-content/uploads/2024/11/amazon-king-digiday.jpg",
+            "publishedAt": "2024-10-16T04:50:55Z",
+            "content": "Amazon\r\n102Amazon\r\nAdvertisement\r\nAmazon190031BarbNetflix700Disney+82Amazon\r\nAmazon9\r\nNetflixAmazon\r\nAmazonAmazon\r\nAmazon52TVAmazon.co.uk36Amazon\r\nAmazon AdsTV\r\nHasbro\r\nPeppa PigAmazon621178\r\nNivea50… [+458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Shiftdelete.net"
+            },
+            "author": "Tunahan Karakış",
+            "title": "Geç olsun güç olmasın: Samsung, bir modeli için beklenen güncellemeyi yayınladı!",
+            "description": "Samsung, Ekim 2024 yamasını dağıtmış olmasına rağmen, Galaxy A35 için gecikmeli de olsa Eylül 2024 güncellemesini kullanıma sundu.\n\nGeç olsun güç olmasın: Samsung, bir modeli için beklenen güncellemeyi yayınladı!",
+            "url": "https://shiftdelete.net/galaxy-a35-guncelleme",
+            "urlToImage": "https://ares.shiftdelete.net/2024/06/samsung-galaxy-a35-teknik-ozellikleri.jpg",
+            "publishedAt": "2024-10-16T04:00:00Z",
+            "content": "Samsung, Android 15 tabanl One UI 7 arayüzünde baz geciklemeler yaasa da kullanc güvenliini ve gizliliini artran yamalarn datmn sürdürüyor. Güney Koreli marka son olarak orta segmente hitap eden Gala… [+1199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Shiftdelete.net"
+            },
+            "author": "Enes K.",
+            "title": "Karşınızda tarihin ilk ‘yapay zeka ile ödev yapma’ davası!",
+            "description": "Yapay zeka hayatımızın her alanına işledikçe, yasal süreçler de kaçınılmaz hale geliyor. Bir aile, okulu bir ödev ile ilgili dava etti.\n\nKarşınızda tarihin ilk ‘yapay zeka ile ödev yapma’ davası!",
+            "url": "https://shiftdelete.net/karsinizda-tarihin-ilk-yapay-zeka-ile-odev-yapma-davasi",
+            "urlToImage": "https://ares.shiftdelete.net/2023/06/ChatGPT-ile-odev-nasil-yapilir.webp",
+            "publishedAt": "2024-10-16T04:15:00Z",
+            "content": "Bildiiniz gibi yapay zeka modelleri artk hayatn her alannda karmza çkyor. Sanayi, tarm, bilim ve aklnza gelebilecek her alanda yapay zeka modellerinden faydalanlyor. Elbette tüm bu yeni dönem, karmza… [+1789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tabletowo.pl"
+            },
+            "author": "Wojciech Kulik",
+            "title": "Najlepszy soundbar Sonos powraca. W jeszcze lepszej wersji",
+            "description": "Sonos Arc Ultra to udoskonalona wersja najbardziej wypasionego soundbara w ofercie kalifornijskiego producenta.Przeczytaj pełny artykuł tutaj: Najlepszy soundbar Sonos powraca. W jeszcze lepszej wersji",
+            "url": "https://www.tabletowo.pl/sonos-arc-ultra-najlepszy-soundbar-cena/",
+            "urlToImage": "https://www.tabletowo.pl/wp-content/uploads/2024/10/sonos-arc-ultra-soundbar-lifestyle-hero.jpg",
+            "publishedAt": "2024-10-16T05:55:28Z",
+            "content": "Sonos Arc Ultra to udoskonalona wersja najbardziej wypasionego soundbara w ofercie kalifornijskiego producenta. Na rynku debiutuje wraz z subwooferem Sub 4, wynoszcym goniki niskotonowe na wyszy pozi… [+2223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gagadget.com"
+            },
+            "author": "gagadget.com",
+            "title": "Apple не будет добавлять зарядное устройство к iPad Mini 7 в Европе, но обновит кабель USB-C",
+            "description": "Компания Apple объявила, что новый iPad Mini 7 не будет поставляться с зарядным устройством в коробке в европейских странах, включая Великобританию, Францию, Германию, Италию и Испанию.",
+            "url": "https://gagadget.com/ru/518375-apple-ne-budet-dobavlyat-zaryadnoe-ustrojstvo-k-ipad-mini-7-v-evrope-no-obnovit-kabel-usb-c/",
+            "urlToImage": "https://gagadget.com/media/cache/e3/2a/e32a05cd80bc6d09e7fdea0c73f70167.jpg",
+            "publishedAt": "2024-10-16T00:57:27Z",
+            "content": "Apple , iPad Mini 7 , , , , .\r\n, , , 2026 , , .\r\n , iPad Pro iPad Air, . , , , USB-C 20 iPad Mini 7.\r\n , iPad Mini 7, , Apple , . Vision Pro, iPad Pro iPhone 16. Apple.\r\n USB-C, iPad Mini 7, , .\r\n iP… [+24 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "UploadVR"
+            },
+            "author": "David Heaney",
+            "title": "Quest 3S Specs - Compared To Quest 3, Quest 2, Apple Vision Pro, And More",
+            "description": "Here's a specs comparison of Quest 3S with Quest 3, Quest 2, Quest Pro, Apple Vision Pro, Pico 4 Ultra, and Vive Focus Vision.",
+            "url": "https://www.uploadvr.com/quest-3s-specs/",
+            "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2024/10/Meta-Quest-3S-internal-components.png",
+            "publishedAt": "2024-10-16T00:05:28Z",
+            "content": "Quest 3S starts arriving today, and it comes with the same Snapdragon XR2 Gen 2 chipset as Quest 3. Heres a detailed rundown of Quest 3S's specifications and features and how those compare to other h… [+13762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "对iPhone需求疲软担忧开始减弱 苹果股价触及历史新高",
+            "description": "周二，苹果（AAPL.US）股价逆市上涨，因对iPhone需求疲软的担忧开始减弱。该股已连续两天上涨，在此期间涨幅约为3%。根据道琼斯市场数据，苹果股价周二上涨1.1%至233.85美元，创下自7月16日以来的最高收盘价，盘中，该股触及历史新高237.49美元。纳斯达克综合指数下跌1%，主要原因是阿斯麦（ASML.US）发布的前景令人失望，导致整个科技板块普遍下跌。\r\n\n对于苹果投资者来说，这段时间较为复杂，尤其是关于iPhone需求的前景。他们花了好几周时间分析不同研究机构和分析师发布的不断变化的需求数据。然而…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1449332.htm",
+            "urlToImage": "https://n.sinaimg.cn/finance/transform/60/w550h310/20241012/7694-e84a8495c5dc5c6e7e82b9f277578b9d.png",
+            "publishedAt": "2024-10-16T01:35:27Z",
+            "content": "iPhone\r\n6Apple Intelligence9iPhone 16\r\niPhoneApple Intelligence\r\nEvercore ISIAmit DaryananiAIiPhone250\r\nSamik Chatterjee265Pro MaxiPhoneiPhone 16\r\niPad MiniiPadApple Intelligence\r\n22%5001031"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "iPhone SE 4已开始备货 2025年3月发布：自研5G基带、支持苹果智能",
+            "description": "据美国投资银行摩根士丹利最新发布的报告，供应链种种迹象表明iPhone SE 4已开始备货。预计苹果将于2025年3月发布iPhone SE 4，出货量在1500~2000万台之间。\r\n\niPhone SE 4被认为是苹果最具性价比、竞争力的手机，首先就是首发苹果自研5G基带，这将是iPhone历史上开创里程碑的机型，未来将逐步全面替换高通基带。iPhone SE 4还是该系列首次引入刘海屏，苹果自此也将彻底进入全面屏时代，同时这种方案也大大增加了SE机型的可用性，终于跟得上时代了。新机还将首次配备上Face I…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1449344.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2024/1016/5ab33beb3f19f40.jpg",
+            "publishedAt": "2024-10-16T02:05:12Z",
+            "content": "iPhone SE 45GiPhone\r\niPhone SE 4SE\r\nFace ID2022iPhone SE 3Home\r\nOLEDSEiPhone 13/146.1\r\niPhone SE 4A188GB\r\niPhone SE 4Apple IntelligenceiPhone 15 Pro"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biziday.ro"
+            },
+            "author": "Velica Andreea",
+            "title": "Acțiunile Apple au urcat la un nivel record (+2,7%), impulsionate de cererea peste așteptări pentru noul Iphone 16, cu funcții bazate pe AI (indisponibile în UE), și de anunțarea noului Ipad Mini.",
+            "description": "Acțiunile Apple au crescut cu până la 2,7%, pe parcursul zilei de marți, și au atins temporar 237,5 dolari, beneficiind de impulsul dat de lansarea noilor iPhone 16. Totodată, Apple a ajuns la o capitalizare de piață de peste 3,6 trilioane de dolari, fiind ce…",
+            "url": "https://www.biziday.ro/299215-2/",
+            "urlToImage": "https://cdn.biziday.ro/wp-content/uploads/2024/10/Apple-Lester69-Dreamstime.jpg",
+            "publishedAt": "2024-10-16T06:04:11Z",
+            "content": "Aciunile Apple au crescut cu pân la 2,7%, pe parcursul zilei de mari, i au atins temporar 237,5 dolari, beneficiind de impulsul dat de lansarea noilor iPhone 16. Totodat, Apple a ajuns la o capitaliz… [+1864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ithome.com"
+            },
+            "author": null,
+            "title": "库克力推苹果 iPad mini 7 平板电脑：卓越的性能，全天电池续航",
+            "description": "IT之家 10 月 16 日消息，苹果昨晚推出 iPad mini 7 平板电脑后，该公司首席执行官蒂姆・库克（Tim Cook）今天发布微博，称该平板具备卓越的性能，全天电池续航。IT之家附上库克全文内容如下：卓越的性能，全天电池续航。得益于 Apple 芯片，全新 iPad mini 超便携且超强大。它还提供四种精美外观选择，并支持 Apple Pencil Pro。\r\nIncredible performance. All-day battery life. The new iPad mini is ult…",
+            "url": "https://www.ithome.com/0/802/641.htm",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T02:10:48Z",
+            "content": "Apple iPad mini Apple Pencil Pro\r\nIncredible performance. All-day battery life. The new iPad mini is ultraportable and ultra powerful, thanks to Apple silicon. And it comes in four stunning finishes,… [+40 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ithome.com"
+            },
+            "author": null,
+            "title": "神级播放器 Infuse 8 喜提史诗级更新：支持苹果 Vision Pro 头显，新布局、新设计、新基础架构",
+            "description": "IT之家 10 月 16 日消息，Firecore 公司昨日（10 月 15 日）发布博文，宣布在 App Store 上架新版 Infuse 播放器，最新 8.0 版还添加支持苹果 Vision Pro 头显。在不少苹果用户眼中，Infuse 是苹果平台的一款神级播放器，几乎全部常用的视频、音频、字幕格式，支持 iPhone、MaciPad、Apple TV 以及 Vision Pro 头显，用户可以用此打造专属自己的影视库。IT之家附上 Infuse 8 版本更新内容如下：Infuse 8 现已隆重推出，带来…",
+            "url": "https://www.ithome.com/0/802/606.htm",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T00:19:43Z",
+            "content": "IT 10 16 Firecore 10 15 App Store Infuse 8.0 Vision Pro \r\nInfuse iPhoneMaciPadApple TV Vision Pro \r\nIT Infuse 8 \r\nInfuse 8 \r\n## \r\n Infuse \r\n## Apple Vision Pro\r\nInfuse Apple Vision Pro \r\n## \r\n## \r\nIT"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ithome.com"
+            },
+            "author": null,
+            "title": "科技昨夜今晨 1016：QQ 鸿蒙原生版抢先体验；大疆 DJI Air 3S 航拍无人机发布；苹果发布 2024 款 iPad mini 7 平板电脑...",
+            "description": "“科技昨夜今晨”时间，大家好，现在是 2024 年 10 月 16 日星期三，今天的重要科技资讯有：1、QQ 纯血鸿蒙版抢先体验：超级纯净，藏小惊喜，有大期待10 月 8 日，华为鸿蒙 HarmonyOS NEXT，即纯血鸿蒙、原生鸿蒙，正式开启公测申请。与此同时，各大应用也开始内测邀请。上周，IT之家报道过 QQ 鸿蒙原生版开始接受内测报名。具体体验又如何呢？IT之家已经拿到了内测名额，接下来，就分享 QQ 鸿蒙原生版的抢先体验！>> 查看详情2、上线仅 45 天，网易手游《天启行动》宣布停运10 月 14 日…",
+            "url": "https://www.ithome.com/0/802/608.htm",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16T00:20:24Z",
+            "content": "2024 10 16 \r\n1QQ \r\n10 8  HarmonyOS NEXTIT QQ IT QQ &gt;&gt; \r\n2 45 \r\n10 14 5V5 8 30 45 &gt;&gt; \r\n3 3nm \r\nRedmi \r\n10 10 Redmi xxxx&gt;&gt; \r\n4 2024 81GB \r\n 2024 2024 11 19 180Mb/s 81GB &gt;&gt; \r\n5 1… [+852 chars]"
+        }
+    ]
+}
